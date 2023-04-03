@@ -4,8 +4,8 @@ This workshop walks through getting started with setting up a Data Science Envir
 
 Make sure you have a:
 
-- GitHub Account
-- Azure Account: [Sign up for Azure for Students](https://aka.ms/azure4students) and get $100 of credit with an .edu account.
+* [GitHub Account](https://github.com/signup)
+* [Sign up for Azure for Students](https://aka.ms/azure4students) and get $100 of credit with an .edu account.
 
 ## Setup
 
