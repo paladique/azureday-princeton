@@ -18,3 +18,5 @@ You'll need an Azure account to complete this lab.
 * Login or Sign-up for a [Free Azure account](https://azure.microsoft.com/en-us/free/students/).  
 * Complete the following setup steps to create a RAI dashboard: https://aka.ms/RAIDashboardLabSetup
 * Access the [lab description and instructions](https://ruyakubu.github.io/1hr-rai-dashboard-workshop/)
+
+![RAI dashboard](/images/ea-error-cohort.png "Tree map")
