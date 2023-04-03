@@ -4,10 +4,10 @@ This [lab](https://ruyakubu.github.io/1hr-rai-dashboard-workshop/) shows how to 
 
 TOPICS:
 The topics that will be covered in this section with be:
-	- Error Analysis
-	- Model Overview
-	- Data Analysis
-	- Model Interpretability & Explainability
+* Error Analysis
+* Model Overview
+* Data Analysis
+* Model Interpretability & Explainability
 
 DATA
 We will be using the Diabetes Hospital Readmission dataset in our classification use case.  The dataset is from [UCI's Diabetes 130-US hospitals for years 1999-2008 Data Set](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008#). The trained model used in this workshop classifies if a diabetic patient with be Readmitted or Not Readmitted back to a hospital within 30 days after they have be discharged.
