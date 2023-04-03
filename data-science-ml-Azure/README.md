@@ -1,6 +1,6 @@
 # Data Science and Machine Learning on Azure
 
-This [lab](https://ruyakubu.github.io/1hr-rai-dashboard-workshop/) shows how to debug machine learning models using the Responsible AI (RAI) dashboard in Azure Machine Learning studio. The goal of the lab is for users to get hands-on learning on how to train a model and use the Responsible AI dashboard to debug the model in order to improve the model's performance to be more fair, inclusive, safe & reliable, and transparent. User learn how to use RAI dashboard to build AI solutions that are less harmful to society; more trustworthy and meet some industry compliance requirements.
+This [lab](https://ruyakubu.github.io/1hr-rai-dashboard-workshop/) shows how to debug machine learning models using the Responsible AI (RAI) dashboard in Azure Machine Learning studio. The goal of the lab is for users to get hands-on learning on how to train a model and use the Responsible AI dashboard to debug the model in order to improve the model's performance as well to be more fair, inclusive, safe & reliable, accountable, and transparent. User learn how to use RAI dashboard to build AI solutions that are less harmful to society; more trustworthy and meet some industry compliance requirements.
 
 TOPICS:
 The topics that will be covered in this section with be:
