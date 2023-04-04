@@ -10,3 +10,7 @@
 
 * [Sign up for Azure for Students](https://aka.ms/azure4students) and get $100 of credit with an .edu email.
 * [GitHub Account](https://github.com/signup)
+
+## Learn More
+[https://docs.github.com/codespaces](Codespaces Documentation)
+[Understanding RAI dashboard controls & settings](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-responsible-ai-dashboard?WT.mc_id=aiml-71289-ruyakubu)
