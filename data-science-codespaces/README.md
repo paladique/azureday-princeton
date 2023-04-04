@@ -7,6 +7,13 @@ Make sure you have a:
 * [GitHub Account](https://github.com/signup)
 * [Sign up for Azure for Students](https://aka.ms/azure4students) and get $100 of credit with an .edu account.
 
+**Agenda:**
+
+1. Customizing a Codespace
+2. Azure cli in a Codespace
+3. Codespaces from a template
+4. Create a Codespace from scratch
+
 ## Setup
 
 1. Fork this repository
