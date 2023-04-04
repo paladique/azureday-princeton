@@ -9,10 +9,10 @@ Make sure you have a:
 
 **Agenda:**
 
-1. Customizing a Codespace
-2. Azure cli in a Codespace
-3. Codespaces from a template
-4. Create a Codespace from scratch
+1. [Customizing a Codespace](#customize-your-codespace)
+2. [Azure cli in a Codespace](#codespace-with-azure)
+3. [Codespaces from a template](#make-your-own-codespace-from-a-template)
+4. [Create a Codespace from scratch](#make-your-own-codespace-from-scratch)
 
 ## Setup
 
