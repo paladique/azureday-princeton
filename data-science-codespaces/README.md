@@ -41,7 +41,7 @@ Open up your Jupyter Notebook file [notebook.ipynb](notebook.ipynb) and follow i
 
 ## Codespace with Azure
 
-In [notebook-azure.ipynb](), we revisit the pumpkin dataset with logistic regression. This time, we'll be loading our cleaned dataset in Azure.
+In [notebook-azure.ipynb](notebook-azure.ipynb), we revisit the pumpkin dataset with logistic regression. This time, we'll be loading our cleaned dataset in Azure.
 After `US-pumpkins-clean.csv` is created, it'll be uploaded to a Azure Storage account with the Azure cli. 
 
 
@@ -68,8 +68,13 @@ It will output the name of your storage
 4. Run the follwing script:
 `./data-science-codespaces/create-blob.sh`
 
-5. If prompted, select `yes`
+5. If prompted to install the storage-preview cli extension, select `yes`
 
+6. From the terminal, get the STORAGEACCOUNTURL and STORAGEACCOUNTKEY output values and set them in your codespaces secrets by going to your repo `settings > secrets and variables > codespaces > new repository secret`
+
+![Codespace secrets](../images/codespace-secret.png)
+
+7. Your codespace will reload with these secrets as environment variables.
 
 ## Make your own codespace from a template
 
@@ -96,3 +101,8 @@ It will output the name of your storage
 5. Select features, for example, you can install the GitHub CLI, Conda, Python, R, or Nvidia CUDA (_only works on host machines with NVIDA GPU_)
 6. (Optional) Customize your features
 7. `.devcontainer/devcontainer.json` file will be created.
+
+
+## Cleanup
+
+In the Azure Portal, delete the Azure Storage Account you created.

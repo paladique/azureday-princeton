@@ -26,3 +26,5 @@ az storage azcopy blob upload -c $container --account-name $storage -s data-scie
 az storage account show  -n $storage --query "{STORAGEACCOUNTURL:primaryEndpoints.blob}"
 
 az storage account keys list -n $storage --query "[0].{STORAGEACCOUNTKEY:value}"
+
+rm -rf data-science-codespaces/data/US-pumpkins-clean.csv
